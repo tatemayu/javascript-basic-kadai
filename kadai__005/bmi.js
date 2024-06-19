@@ -1,6 +1,6 @@
-const userWeight =68;
-const userHeight= 1.7;
-const BMI = userWeight / userHeight*userHeight;
+let userWeight =68;
+let userHeight= 1.7;
+let BMI = userWeight / userHeight*userHeight;
 
 //BMI計算
 console.log( userWeight/(userHeight* userHeight));
